@@ -199,3 +199,10 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+
+/*tried putting the side on the same level as the remaining sections but did not work*/
+.content,
+.benefits{
+    display: inline-block;
+}
