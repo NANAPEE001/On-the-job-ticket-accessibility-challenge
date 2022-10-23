@@ -10,7 +10,8 @@ Inputting in the semantics altered the some of output of the webpage making it l
 I was able to apply semantics to the webpage and learnt new semantic terms that hitherto i was not familiar with. I was able to explore with the postioin property in css
 
 
- 
+ ![Web capture_23-10-2022_114847_](https://user-images.githubusercontent.com/89780740/197387974-f3513672-bbff-4e36-96dd-1188ac11360d.jpeg)
+
 # Contact
 
 If you have any questions, please contact me at: 
