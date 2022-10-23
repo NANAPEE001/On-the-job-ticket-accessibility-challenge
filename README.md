@@ -20,4 +20,4 @@ If you have any questions, please contact me at:
 
   Email:  nanapee001@gmail.com
 
-  LinkedIn: [Philip Nana Amankwah-Yeboah](https://www.linkedin.com/in/philip-nana-amankwah-yeboah)
+  LinkedIn: [Philip Nana Amankwah-Yeboah](https://www.linkedin.com/in/philip-nana-amankwah-yeboah-22957996/?trk=prof-samename-picture&originalSubdomain=gh)
