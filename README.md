@@ -1,6 +1,6 @@
 # On-the-job-ticket-accessibility-challenge
 
-*This is an on the job ticket accessibility project which sought to add semantics to a webpage to make it easier for users to relate well with the page *
+This is an on the job ticket accessibility project which sought to add semantics to a webpage to make it easier for users to relate well with the page 
 
 # Challenges 
 Inputting in the semantics altered the some of output of the webpage making it look different from the original page. However, with modifictions in html and css, the page now resembled the original page
