@@ -1,20 +1,21 @@
+/*properties affect all*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*property affects body*/
 body {
     background-color: #d9dcd6;
 }
-
+/*introduced a class for header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*introduced a class for header h1*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
